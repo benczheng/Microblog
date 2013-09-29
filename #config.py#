@@ -1,3 +1,0 @@
-CSRF_ENABLED = True
-SECRET_KEY = 'a-code-that-you-cannot-jiandan-de-guess'
-
